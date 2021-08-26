@@ -1,5 +1,5 @@
 # 
-# This SAFE ensures SAFE we SAFE can still publish ready messages regardless
+# This ensures we can still publish ready messages regardless
 
 # Python Program to find the area of triangle
 a = 5
