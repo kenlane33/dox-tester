@@ -1,6 +1,6 @@
 # dox-tester
 
-This SAFE ensures SAFE we SAFE can still publish ready messages regardless
+This ensures we can still publish ready messages regardless
 
 This is a test. This is only a test.
 
